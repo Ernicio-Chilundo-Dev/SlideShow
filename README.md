@@ -1,4 +1,4 @@
-# 🎞️ SlideVida — Celebrate Your Life in Photos
+# 🎞️ SlideShow — Celebrate Your Life in Photos
 
 **SlideVida** is a fun and interactive Python desktop app that turns your birthday into a visual celebration. Just enter your date of birth, choose some meaningful photos, and enjoy a birthday slideshow based on your age!
 
